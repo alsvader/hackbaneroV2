@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\pre-dexed\release\classes-a9a6ea360b5c3d63fbd956ce9194b0da3a197785.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0-d410407e184de45de27f7f98505ad5dd95b8ad8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabriel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0-42ef46822534e984254c7f245256ea551d79230c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Gabriel\AndroidStudioProjects\MayanAnalytics\app\build\intermediates\pre-dexed\release\classes-00976d2b1fbd5870ceebc9fd4e6ebdee9fff0c9c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "illuminate/database": "^5.1",
+        "twig/twig": "^1.23"
+    },
+    "autoload": {
+		"classmap": [
+			"config",
+			"model/"
+		]
+	}
+}
